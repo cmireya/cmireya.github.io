@@ -2,122 +2,147 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Mireya Cervantes
 
-[Link to another page](./another-page.html).
+**Oceanside, CA 92058**  
+**Phone:** (760) 419-5776  
+**Email:** [mildred485993@gmail.com](mailto:mildred485993@gmail.com)
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Professional Summary
 
-# Header 1
+I am a Business Administration graduate with a concentration in Management Information Systems and several years of experience in accounting and finance.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I am currently pursuing a Master of Science in Business Analytics at California State University San Marcos. I have experience with Microsoft Office Programs, and financial databases. I have Strong analytical, organizational, and problem-solving skills with the ability to manage financial records, identify discrepancies, and analyze information.
 
-## Header 2
+I am bilingual in English and Spanish.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+---
 
-### Header 3
+## Education
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### California State University San Marcos (CSUSM)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+**San Marcos, CA**
 
-#### Header 4
+**Master of Science in Business Analytics**  
+*Currently pursuing — Expected Completion: Summer 2027*
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+**Bachelor of Science in Business Administration, Management Information Systems**
 
-##### Header 5
+---
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## Professional Experience
 
-###### Header 6
+### Palomar Craft Cannabis
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+**Santa Ysabel, CA**  
+**Accountant** | *[VERIFY DATES]*
 
-### There's a horizontal rule below this.
+- Reconciled financial records and identified, documented, and reported discrepancies.
+- Calculated and prepared payments for utilities, taxes, and other business expenses.
+- Monitored accounts to ensure payments were accurate and up to date.
+- Examined and reconciled financial records to support accurate financial reporting.
 
-* * *
+### New Genetics
 
-### Here is an unordered list:
+**Dimondale, MI**  
+**Controller** | December 2019 – March 2020
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+- Monitored financial activities and maintained accurate financial records.
+- Prepared documentation for contracts, financial transactions, and regulatory compliance.
+- Calculated, prepared, and issued bills, invoices, account statements, and financial reports.
+- Recorded, debited, credited, and totaled accounts using computerized spreadsheets and databases.
 
-### And an ordered list:
+### Success Resources
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+**Carlsbad, CA**  
+**Senior Staff Accountant** | October 2018 – November 2019
 
-### And a nested list:
+- Performed financial reporting, accounting, billing, and collection activities.
+- Conducted audits of company accounts and financial records.
+- Analyzed financial information related to past, current, and projected business operations.
+- Evaluated financial information to identify issues and support effective business decisions.
+- Developed productive and cooperative working relationships with colleagues and internal stakeholders.
+- Analyzed information and evaluated results to identify solutions to financial and operational problems.
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+### Earthlite LLC
 
-### Small image
+**Vista, CA**  
+**Accounts Payable / Accounts Receivable Specialist & Accounting Clerk** | December 2016 – September 2018
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+#### Accounts Payable
 
-### Large image
+- Verified the accuracy of invoices and payments.
+- Prepared documentation for contracts, transactions, and regulatory compliance.
+- Managed and processed financial transactions related to company liabilities and payments.
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+#### Accounts Receivable
 
+- Recorded information about the financial status of customers and collection efforts.
+- Negotiated financial arrangements with customers.
+- Discussed account status and activity with customers.
+- Collected deposits, payments, and fees.
 
-### Definition lists can be used with HTML syntax.
+#### Accounting Clerk
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+- Executed sales and other financial transactions.
+- Answered telephone calls, directed calls, and provided information.
+- Filed documents and sorted mail.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+---
 
-```
-The final element.
-```
+## Technical Skills
+
+### Microsoft Office
+
+- Microsoft Excel
+- Microsoft Word
+- Microsoft PowerPoint
+
+### Accounting & ERP Systems
+
+- Microsoft Dynamics GP
+- NetSuite
+- QuickBooks Desktop
+- QuickBooks Online
+
+### Financial Skills
+
+- Accounts Payable
+- Accounts Receivable
+- Financial Reconciliation
+- Billing
+- Collections
+- Financial Reporting
+- Auditing
+- Financial Record Management
+
+### Other Skills
+
+- 10-Key Calculator
+- Financial Databases
+- Spreadsheets
+- Data Analysis
+- Problem Solving
+- Organization
+
+---
+
+## Current Projects
+
+### Business Analytics Projects
+
+- Developing data analysis projects using **Python and pandas** to clean, transform, and analyze datasets.
+- Building and evaluating **machine learning models** using Python to analyze and predict outcomes.
+- Applying **data visualization and statistical analysis** techniques to identify trends and patterns.
+- Using **Excel and Python** to organize and analyze data.
+- Applying business analytics concepts to real-world business problems, including **staffing, forecasting, customer analysis, and decision-making models**.
+- Using **GitHub** to manage, document, and showcase code.
+---
+## Contact
+
+**Email:** [mildred485993@gmail.com](mailto:mildred485993@gmail.com)
+
+**Phone:** (760) 419-5776

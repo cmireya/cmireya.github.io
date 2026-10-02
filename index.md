@@ -13,9 +13,9 @@ title: Mireya Cervantes - Resume
 
 ## Professional Summary
 
-Business Administration graduate with a concentration in Management Information Systems and several years of experience in accounting, accounts payable, accounts receivable, financial reporting, billing, collections, and financial reconciliation.
+I am a Business Administration graduate with a concentration in Management Information Systems and several years of experience in accounting and finance.
 
-Currently pursuing a Master of Science in Business Analytics at California State University San Marcos. Experienced with Microsoft Excel, Microsoft Dynamics GP, NetSuite, QuickBooks, and financial databases. Strong analytical, organizational, and problem-solving skills with the ability to manage financial records, identify discrepancies, analyze information, and support business operations.
+Currently I am pursuing a Master of Science in Business Analytics at California State University San Marcos. Experienced with Microsoft Office, and financial databases. Strong analytical, organizational, and problem-solving skills with the ability to manage financial records, identify discrepancies, analyze information, and support business operations.
 
 Bilingual in English and Spanish.
 
@@ -39,7 +39,7 @@ Bilingual in English and Spanish.
 ### Palomar Craft Cannabis
 
 **Santa Ysabel, CA**  
-**Accountant** | *[VERIFY DATES]*
+**Accountant** | April 2020 - September 2020
 
 - Reconciled financial records and identified, documented, and reported discrepancies.
 - Calculated and prepared payments for utilities, taxes, and other business expenses.
@@ -141,20 +141,6 @@ Bilingual in English and Spanish.
 
 ---
 
-## Languages
-
-- English — Bilingual
-- Spanish — Bilingual
-
----
-
-## Interests
-
-- Camping
-- Tax Preparation
-- Organization
-
----
 
 ## Contact
 

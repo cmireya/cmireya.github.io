@@ -2,6 +2,6 @@
 title: "Mireya L Cervantes"
 logo: /assets/img/logo.png
 description: "Welcome to my professional portfolio. Here you can learn about my education, experience, skills, and journey in completing my Master of Science in Business Analytics."
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal

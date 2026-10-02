@@ -140,9 +140,3 @@ I am bilingual in English and Spanish.
 - Using **Excel and Python** to organize and analyze data.
 - Applying business analytics concepts to real-world business problems, including **staffing, forecasting, customer analysis, and decision-making models**.
 - Using **GitHub** to manage, document, and showcase code.
----
-## Contact
-
-**Email:** [mildred485993@gmail.com](mailto:mildred485993@gmail.com)
-
-**Phone:** (760) 419-5776

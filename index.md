@@ -38,7 +38,7 @@ I am bilingual in English and Spanish.
 ### Palomar Craft Cannabis
 
 **Santa Ysabel, CA**  
-**Accountant** | *[VERIFY DATES]*
+**Accountant** | April 2020 - September 2020
 
 - Reconciled financial records and identified, documented, and reported discrepancies.
 - Calculated and prepared payments for utilities, taxes, and other business expenses.

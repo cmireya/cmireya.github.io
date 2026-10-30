@@ -149,4 +149,4 @@ For Milestone II, I created a guide explaining how I created my e-portfolio.
 
 **Tools Used:** GitHub, GitHub Desktop, Visual Studio Code, Markdown, and Jekyll.
 
-**[View My E-Portfolio Creation Guide](/eportfolio_subpage/)**
+**[View How I Created My GitHub E-Portfolio](/eportfolio_subpage/)**

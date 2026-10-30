@@ -141,7 +141,7 @@ I am bilingual in English and Spanish.
 - Applying business analytics concepts to real-world business problems, including **staffing, forecasting, customer analysis, and decision-making models**.
 - Using **GitHub** to manage, document, and showcase code.
 
-### GitHub E-Portfolio Development
+### GitHub E-Portfolio Project
 
 I created a professional e-portfolio.
 

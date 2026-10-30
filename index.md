@@ -140,3 +140,13 @@ I am bilingual in English and Spanish.
 - Using **Excel and Python** to organize and analyze data.
 - Applying business analytics concepts to real-world business problems, including **staffing, forecasting, customer analysis, and decision-making models**.
 - Using **GitHub** to manage, document, and showcase code.
+
+### GitHub E-Portfolio Development
+
+I created a professional e-portfolio.
+
+For Milestone II, I created a guide explaining how I created my e-portfolio.
+
+**Tools Used:** GitHub, GitHub Desktop, Visual Studio Code, Markdown, and Jekyll.
+
+**[View My E-Portfolio Creation Guide](/eportfolio-guide/)**

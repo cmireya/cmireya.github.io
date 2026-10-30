@@ -66,29 +66,27 @@ I organized my portfolio into sections including:
 
 ![Visual Studio Code](/images/vscode.png)
 
-## Step 5: Publishing My Website
+## Step 5: Publishing My E-portfolio
 
-After completing my changes, I committed and pushed
+After completing any changes, I then commit and push changes through
 my files to GitHub.
 
-I reviewed my published website to make sure
-everything displayed correctly.
+I then review my published e-portfolio to make sure
+everything is displayed correctly how I intended to do so.
 
 ## Step 6: Troubleshooting
 
 During the development process, I encountered
 GitHub Actions errors related to file permissions
-and Jekyll dependencies.
+and many typos.
 
-I reviewed the error messages and updated my
-workflow configuration to resolve the issues.
+I reviewed the error messages and did updates to resolve the issues. Also alot of my coding error were typos from extra hashtags to extra spaces or duplicate letters. Reading the resource douments helped me understand my errors and how to fix them. 
 
-This experience helped me understand the importance
-of troubleshooting and testing website changes.
+This experience helped me understand the importance of troubleshooting and double checking my work. Things need to be tested and retested until we are comfortable and satisty with our work.
 
 ## Final E-Portfolio
 
-Below is a screenshot of my completed e-portfolio.
+Below is a screenshot of my completed professional e-portfolio.
 
 ![Completed E-Portfolio](/images/final-portfolio.png)
 
@@ -98,7 +96,11 @@ Below is a screenshot of my completed e-portfolio.
 
 Creating my e-portfolio helped me develop technical
 skills using GitHub, Markdown, Visual Studio Code,
-and Jekyll.
+and Jekyll. It was hard at first learning. I would
+get frustrated and felt stuck but through this project
+I was able to troubleshoot and learn how to make use 
+of Github.
 
-I plan to continue updating my portfolio with
-academic projects throughout my master's program.
+I plan to try to continue updating my e-portfolio with
+my education,academic projects, and professional 
+experiences throughout my master's program.

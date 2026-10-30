@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Professional Portfolio
+# My Professional Portfolio
 
-**Oceanside, CA 92058**  
+**Oceanside, CA**  
 **Phone:** (760) 419-5776  
 **Email:** [mildred485993@gmail.com](mailto:mildred485993@gmail.com)
 
